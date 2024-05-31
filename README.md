@@ -1,4 +1,4 @@
-# Secure Login Interface Exploration
+# Instagram Login Page Clone
 
 ## Project Overview
 This project involves the creation of a login page that mimics the design of a popular social media platform. It was developed to help me understand the fundamentals of HTML, CSS, and PHP, particularly focusing on user interface design and secure form handling.
